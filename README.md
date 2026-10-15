@@ -17,6 +17,7 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
