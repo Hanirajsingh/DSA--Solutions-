@@ -29,4 +29,16 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
