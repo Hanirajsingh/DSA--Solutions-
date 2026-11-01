@@ -34,10 +34,12 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
