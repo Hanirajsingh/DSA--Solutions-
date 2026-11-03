@@ -36,13 +36,16 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
