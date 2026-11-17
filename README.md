@@ -35,6 +35,7 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0216-combination-sum-iii) |
@@ -42,6 +43,7 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0216-combination-sum-iii) |
@@ -50,4 +52,8 @@ A collection of LeetCode problems solved in Java, organized by difficulty and to
 | ------- |
 | [0078-subsets](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Hanirajsingh/DSA--Solutions-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
